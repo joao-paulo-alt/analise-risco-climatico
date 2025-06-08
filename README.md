@@ -1,4 +1,5 @@
 # Análise de Dados Pluviométricos e Predição de Enchentes em Encantado/RS
+![Imagem do projeto](https://th.bing.com/th/id/R.ac134a956faa4f11701812f2d4da86b5?rik=3c00S1MQyjke9g&riu=http%3a%2f%2ffolhapopular.info%2fwp-content%2fuploads%2f2020%2f07%2fWhatsApp-Image-2020-07-08-at-13.52.12.jpeg&ehk=Ff5LlfLksX%2bZrMif4hLuify22yAmbL%2fhI3DZItWEv1A%3d&risl=&pid=ImgRaw&r=0)
 
 Este projeto examina os padrões de precipitação e níveis fluviais no município de Encantado/RS, desenvolvendo um modelo preditivo para risco de enchentes. A análise é baseada em dados históricos de chuva e níveis do rio Taquari, oferecendo insights valiosos para gestão de desastres naturais.
 
