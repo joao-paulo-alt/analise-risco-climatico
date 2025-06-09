@@ -32,7 +32,8 @@ As principais variáveis analisadas incluem:
 - **Variável alvo**: Risco de enchente (binário)
 
 ## Estrutura do Projeto
-<pre>
+
+```.
 analise-alertaviva/
 ├── dados/
 │   ├── encantado-annual-rainfall.csv
@@ -45,7 +46,9 @@ analise-alertaviva/
 │   ├── 3_analise_exploratoria.ipynb
 │   └── 4_modelagem.ipynb
 └── README.md
-<pre>
+```
+
+---
 
 ## Metodologia
 O projeto foi desenvolvido seguindo a metodologia CRISP-DM:
